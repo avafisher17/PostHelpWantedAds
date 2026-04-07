@@ -1,9 +1,0 @@
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\bin\Debug\net6.0\PostHelpWantedAds.deps.json
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\bin\Debug\net6.0\PostHelpWantedAds.dll
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.csproj.AssemblyReference.cache
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.AssemblyInfoInputs.cache
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.AssemblyInfo.cs
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.csproj.CoreCompileInputs.cache
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.dll
-C:\Users\abbyf\OneDrive\Documents\C#\Repos\PostHelpWantedAds\PostHelpWantedAds\obj\Debug\net6.0\PostHelpWantedAds.sourcelink.json
