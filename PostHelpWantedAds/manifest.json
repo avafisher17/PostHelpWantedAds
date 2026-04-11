@@ -1,9 +1,9 @@
 {
     "Name": "Post Help Wanted Ads",
-    "Author": "painfulcake",
+    "Author": "swamp-lord",
     "Version": "1.0.0",
     "Description": "Post your own help wanted ads to get items from friendly NPCs!",
-    "UniqueID": "painfulcake.PostHelpWantedAds",
+    "UniqueID": "swamp-lord.PostHelpWantedAds",
     "EntryDll": "PostHelpWantedAds.dll",
     "MinimumApiVersion": "4.0.0",
     "UpdateKeys": []

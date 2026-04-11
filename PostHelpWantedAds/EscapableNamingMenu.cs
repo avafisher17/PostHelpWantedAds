@@ -23,6 +23,11 @@ namespace PostHelpWantedAds
                 new Rectangle(337, 494, 12, 12),
                 4f
             );
+
+            randomButton.bounds = new Rectangle(0, 0, 0, 0);
+            randomButton.visible = false;
+            randomButton.myID = -1;
+            textBox.Text = "";
         }
 
         public override void receiveKeyPress(Keys key)

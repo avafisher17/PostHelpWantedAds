@@ -10,9 +10,9 @@ namespace PostHelpWantedAds
     {
         public bool DidPostAd { get; set; } = false;
         public int DaysSincePost { get; set; } = 0;
-        public string PostedItem { get; set; } = "";
+        public string ItemIdStr { get; set; } = "";
         public string ChosenVillager { get; set; } = "";
-        public string PlayerInput { get; set; } = "";
+        public string PostedItem { get; set; } = "";
         public string ActiveQuestData { get; set; } = "";
         public string ActiveQuestId { get; set; } = "";
 
